@@ -1,3 +1,3 @@
 # covid19_tracker
 
-<img src="">
+<img src="img1.jpg">
